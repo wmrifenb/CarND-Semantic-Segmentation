@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+nvidia-docker run -it --rm -v `pwd`:/src carndss_docker bash
+
+
